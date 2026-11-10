@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Drawing frame with grid illustration">
+<rect x="91" y="21" width="298" height="278" rx="18" fill="#202324" stroke="#494E4E" stroke-width="2"/>
+<rect x="113" y="43" width="254" height="234" rx="5" fill="#F2F0E8"/>
+<g stroke="#C8AA84" stroke-width="1.5" opacity=".64"><path d="M164 43v234M215 43v234M266 43v234M317 43v234"/><path d="M113 90h254M113 137h254M113 184h254M113 231h254"/></g>
+<path d="M158 219c15-61 40-93 73-95 16-1 28 11 41 10 16-1 31-17 43-8 24 20 17 77 13 96" fill="none" stroke="#5C6260" stroke-width="8" opacity=".6" stroke-linecap="round"/>
+<circle cx="239" cy="111" r="28" fill="none" stroke="#6C706C" stroke-width="7" opacity=".55"/>
+<path d="M328 48l35 35M337 46l29 29" stroke="#E5C59C" stroke-width="4" stroke-linecap="round"/>
+<rect x="101" y="29" width="278" height="262" rx="10" fill="none" stroke="#E5C59C" stroke-width="1" opacity=".5"/>
+</svg>

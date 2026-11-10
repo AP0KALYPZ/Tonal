@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="TONAL grid emblem">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#252829"/><stop offset="1" stop-color="#111314"/></linearGradient><linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#F0D8B7"/><stop offset="1" stop-color="#B99267"/></linearGradient></defs>
+<rect x="10" y="10" width="1004" height="1004" rx="220" fill="url(#bg)"/>
+<rect x="174" y="174" width="676" height="676" rx="82" fill="#181A1B" stroke="url(#gold)" stroke-width="20"/>
+<g stroke="#D5B68E" stroke-width="10" opacity=".53"><path d="M309 232v560M444 232v560M579 232v560M714 232v560"/><path d="M232 309h560M232 444h560M232 579h560M232 714h560"/></g>
+<g fill="none" stroke="url(#gold)" stroke-width="20" stroke-linecap="round"><path d="M232 232h560v560H232z" opacity=".85"/><path d="M309 579h270V309"/></g>
+<circle cx="579" cy="309" r="25" fill="#F0D8B7"/><circle cx="309" cy="579" r="17" fill="#F0D8B7"/>
+</svg>

@@ -1,0 +1,52 @@
+:root {
+  color-scheme: dark;
+
+  --bg: #111314;
+  --stage: #141617;
+  --panel: #1a1d1e;
+  --panel-raised: #222526;
+  --panel-hover: #2a2e2f;
+  --panel-sunken: #151818;
+  --border: #34393a;
+  --border-strong: #4a5051;
+  --border-soft: #292d2e;
+
+  --text: #f0eee9;
+  --text-secondary: #b7bbb7;
+  --text-muted: #929997;
+  --disabled: #646c6b;
+
+  --accent: #e5c59c;
+  --accent-hover: #f1d6b4;
+  --accent-on: #211d18;
+  --accent-surface: #302820;
+  --accent-line: rgba(229, 197, 156, 0.34);
+
+  --success: #a5c89d;
+  --warning: #e0b877;
+  --danger: #dda19a;
+  --paper: #f7f5f0;
+  --grid-default: #d8b791;
+
+  --radius-control: 8px;
+  --radius-card: 12px;
+  --radius-modal: 16px;
+  --radius-pill: 999px;
+
+  --topbar-height: 64px;
+  --footer-height: 36px;
+  --left-sidebar: 294px;
+  --right-sidebar: 318px;
+  --left-sidebar-min: 272px;
+  --right-sidebar-min: 296px;
+
+  --font-sans: Inter, "Segoe UI", "SF Pro Text", system-ui, sans-serif;
+  --font-brand: Georgia, "Times New Roman", serif;
+  --font-mono: "Cascadia Mono", "SF Mono", Consolas, monospace;
+
+  --motion-short: 110ms;
+  --motion-normal: 170ms;
+
+  --shadow-modal: 0 28px 90px rgba(0, 0, 0, 0.62), 0 2px 10px rgba(0, 0, 0, 0.4);
+  --shadow-image: 0 24px 70px rgba(0, 0, 0, 0.55), 0 2px 10px rgba(0, 0, 0, 0.45);
+}
